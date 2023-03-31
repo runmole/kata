@@ -31,7 +31,6 @@ public class Main {
             String[] checkList2 = {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10"};
             boolean check3 = Arrays.asList(checkList2).contains(num1);
             boolean check4 = Arrays.asList(checkList2).contains(num3);
-
             if (check1 == check3 || check2 == check4 || check1 != check2) {
                 try {
                     throw new IOException();             //исключение
