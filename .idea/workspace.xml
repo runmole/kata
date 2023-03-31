@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcfba30f-4244-46d6-b7bc-1ace21f373c7" name="Changes" comment="" />
+    <list default="true" id="dcfba30f-4244-46d6-b7bc-1ace21f373c7" name="Changes" comment="rabotaet" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2NmCCaLfDDLvdcTUU6FUYZf3zUk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,6 +31,18 @@
       <option name="presentableId" value="Default" />
       <updated>1680259745628</updated>
     </task>
+    <task id="LOCAL-00001" summary="rabotaet">
+      <created>1680259962053</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680259962053</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rabotaet" />
+    <option name="LAST_COMMIT_MESSAGE" value="rabotaet" />
   </component>
 </project>
