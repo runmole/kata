@@ -74,7 +74,6 @@ public class Main {
                 }
                 equals = Roman.values()[requals - 1].toString();
             }
-
             else {
                 int n1 = Integer.parseInt(num1);                    //преобразуем строку в инт
                 int n3 = Integer.parseInt(num3);
